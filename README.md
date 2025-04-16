@@ -232,5 +232,3 @@ end
 - 💡 Combine with `vim.validate()` or assert functions for runtime safety.
 
 ---
-
-🧠 Want to extend this cheat sheet with **metatables**, **Neovim plugin patterns**, or **OOP examples**? Just ask!
